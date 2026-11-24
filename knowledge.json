@@ -1,0 +1,37 @@
+[
+  {
+    "topic": "borrow",
+    "title": "Borrowing limits",
+    "aliases": ["borrowing limit", "how many tools", "check out tools", "borrow tools"],
+    "answer": "Members can borrow up to three tools at a time. The standard loan lasts seven days.",
+    "approved": true
+  },
+  {
+    "topic": "return",
+    "title": "Returning tools",
+    "aliases": ["return a tool", "return tools", "drop off a tool", "drop off tools"],
+    "answer": "Return tools to the staffed desk during opening hours. Bring any accessories listed on the loan slip.",
+    "approved": true
+  },
+  {
+    "topic": "orientation",
+    "title": "First-visit orientation",
+    "aliases": ["first visit", "orientation", "safety induction"],
+    "answer": "New members complete a 20-minute orientation before borrowing powered tools. Ask the help desk about the next session.",
+    "approved": true
+  },
+  {
+    "topic": "hours",
+    "title": "Opening hours",
+    "aliases": ["opening hours", "when are you open", "hours of operation"],
+    "answer": "The tool library opens Tuesday and Thursday from 4 to 8 p.m. and Saturday from 10 a.m. to 2 p.m.",
+    "approved": true
+  },
+  {
+    "topic": "weekend-locker",
+    "title": "Weekend locker trial",
+    "aliases": ["weekend locker", "weekend lockers", "after hours locker"],
+    "answer": "The draft proposes weekend locker pickup for reserved kits. The service has not been approved.",
+    "approved": false
+  }
+]
