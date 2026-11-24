@@ -31,7 +31,7 @@ python -X utf8 -B -m unittest -v
 python -X utf8 -B evaluate.py
 ```
 
-The behavioral evaluation uses a fresh seeded database and checks 16 fixed synthetic questions against the expected route and source topic. The test suite also exercises approval transitions, the queue and loopback HTTP behavior. Hosted GitHub Actions is configured for Windows and Linux with Python 3.10 and 3.14 and remains unverified.
+The behavioral evaluation uses a fresh seeded database and checks 16 fixed synthetic questions against the expected route and source topic. The test suite also exercises approval transitions, the queue and loopback HTTP behavior. [Hosted GitHub Actions CI](https://github.com/ryanlupardus/knowledge-grounded-support-assistant/actions/runs/45383699358) passed on Windows and Linux with Python 3.10 and 3.14.
 
 ## Limitations and proposed integrations
 
